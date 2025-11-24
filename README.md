@@ -1,6 +1,6 @@
 # Microserivicio Autenticación
-Estudiante : Betty Rodriguez
-Estudiante : Victor Villamarin
+-Estudiante : Betty Rodriguez
+-Estudiante : Victor Villamarin
 
 ## Ejecutar el Proyecto
 
